@@ -1,0 +1,12 @@
+
+Machine learning algorithms learn patterns from data without explicit programming.
+Supervised learning uses labeled data to predict outcomes on new examples.
+Unsupervised learning finds hidden structures in data without target labels.
+Neural networks mimic brain neurons with interconnected layers of nodes.
+Deep learning uses multiple hidden layers to model complex relationships.
+Overfitting occurs when models memorize training data but fail on new data.
+Cross-validation splits data to test model performance on unseen examples.
+Feature engineering transforms raw data into meaningful model inputs.
+Gradient descent optimizes model parameters by minimizing prediction errors.
+Ensemble methods combine multiple models to improve overall accuracy.
+    
