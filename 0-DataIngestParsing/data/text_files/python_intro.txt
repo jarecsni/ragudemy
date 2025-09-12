@@ -1,0 +1,12 @@
+1-dataingestion.ipynb
+Python's dynamic typing allows flexible code but can cause runtime errors.
+The GIL prevents true multithreading, making multiprocessing better for CPU tasks.
+List comprehensions replace for loops with readable one-liners.
+Python emphasizes readability and the principle of one obvious way.
+The standard library is extensive, earning Python the 'batteries included' nickname.
+Duck typing determines suitability by methods, not actual type.
+Python's interpreter enables rapid prototyping and interactive development.
+Data science popularity comes from NumPy, Pandas, and Scikit-learn libraries.
+Python's natural language syntax makes it ideal for beginners.
+Virtual environments solve dependency conflicts between projects
+    
