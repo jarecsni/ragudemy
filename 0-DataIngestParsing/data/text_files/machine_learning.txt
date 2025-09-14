@@ -1,12 +1,15 @@
+Machine Learning Basics
 
-Machine learning algorithms learn patterns from data without explicit programming.
-Supervised learning uses labeled data to predict outcomes on new examples.
-Unsupervised learning finds hidden structures in data without target labels.
-Neural networks mimic brain neurons with interconnected layers of nodes.
-Deep learning uses multiple hidden layers to model complex relationships.
-Overfitting occurs when models memorize training data but fail on new data.
-Cross-validation splits data to test model performance on unseen examples.
-Feature engineering transforms raw data into meaningful model inputs.
-Gradient descent optimizes model parameters by minimizing prediction errors.
-Ensemble methods combine multiple models to improve overall accuracy.
+Machine learning is a subset of artificial intelligence that enables systems to learn and improve
+from experience without being explicitly programmed. It focuses on developing computer programs
+that can access data and use it to learn for themselves.
+
+Types of Machine Learning:
+1. Supervised Learning: Learning with labeled data
+2. Unsupervised Learning: Finding patterns in unlabeled data
+3. Reinforcement Learning: Learning through rewards and penalties
+
+Applications include image recognition, speech processing, and recommendation systems
+
+
     
